@@ -20,5 +20,4 @@ If the deep link is not clickable, copy it into a browser address bar or Windows
 - `spritesheet.webp` — runtime spritesheet
 - `pet.json` — Codex pet metadata
 - `manifest.json` — frame layout and timing
-- `preview.png` — animation contact sheet
 - `QA.md` — generation and validation notes
